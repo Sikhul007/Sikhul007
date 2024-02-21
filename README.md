@@ -4,7 +4,7 @@
 <img align = "right" alt="coding" width="400px" src"![image](https://github.com/Sikhul007/Sikhul007/assets/123489513/8bd10da5-1e49-45e9-8689-1df4ffd18349)
 ">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sikhul007&label=Profile%20views&color=0e75b6&style=flat" alt="sikhul007" /> </p>
+<p align="right" alt="coding" width="400px"> <img src="https://komarev.com/ghpvc/?username=sikhul007&label=Profile%20views&color=0e75b6&style=flat" alt="sikhul007" /> </p>
 
 - 🌱 I’m currently learning **HTML, PHP, CSS.**
 

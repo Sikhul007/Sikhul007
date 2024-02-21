@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD. Sikhul Islam Shihab</h1>
 <h3 align="center">Crafting Code and Shaping Digital Experiences 🚀 | Aspiring Web Developer| From Bangladesh.</h3>
 
-<img align = "right" alt="coding" width="400px" src"![image](https://github.com/Sikhul007/Sikhul007/assets/123489513/8bd10da5-1e49-45e9-8689-1df4ffd18349)
+<img align = "right" alt="coding" width="40px" src"![image](https://github.com/Sikhul007/Sikhul007/assets/123489513/8bd10da5-1e49-45e9-8689-1df4ffd18349)
 ">
 
 <p align="right" alt="coding" width="400px"> <img src="https://komarev.com/ghpvc/?username=sikhul007&label=Profile%20views&color=0e75b6&style=flat" alt="sikhul007" /> </p>

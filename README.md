@@ -1,9 +1,7 @@
-![image](https://github.com/Sikhul007/Sikhul007/assets/123489513/8bd10da5-1e49-45e9-8689-1df4ffd18349)
-
 <h1 align="center">Hi 👋, I'm MD. Sikhul Islam Shihab</h1>
 <h3 align="center">Crafting Code and Shaping Digital Experiences 🚀 | Aspiring Web Developer| From Bangladesh.</h3>
 
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="right" alt="coding" width="400px"> <img src="https://komarev.com/ghpvc/?username=sikhul007&label=Profile%20views&color=0e75b6&style=flat" alt="sikhul007" /> </p>
 

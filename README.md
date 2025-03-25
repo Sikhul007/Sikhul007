@@ -16,6 +16,8 @@
 <a href="https://www.linkedin.com/in/md-sikhul-islam-shihab/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. sikhul islam shihab" height="30" width="40" /></a>
 <a href="https://fb.com/sikhul shihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sikhul shihab" height="30" width="40" /></a>
 <a href="https://instagram.com/sikhul shihab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sikhul shihab" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/Sikhul2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  alt="Sikhul2001" height="35" width="55" /></a>
+  <a href="https://www.leetcode.com/Shihab2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shihab2001" height="35" width="55" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

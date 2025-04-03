@@ -51,5 +51,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sikhul007&show_icons=true&locale=en&layout=compact" alt="sikhul007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikhul007&show_icons=true&locale=en" alt="sikhul007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sikhul007&" alt="sikhul007" /></p>

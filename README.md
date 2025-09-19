@@ -5,7 +5,7 @@
 
 <p align="right" alt="coding" width="400px"> <img src="https://komarev.com/ghpvc/?username=sikhul007&label=Profile%20views&color=0e75b6&style=flat" alt="sikhul007" /> </p>
 
-- 🌱 I’m currently learning **React js, Python.**
+- 🌱 I’m currently working with .net core.**
 
 - 📫 How to reach me **sikhulshihab@gmail.com**
 

@@ -1,3 +1,4 @@
+<h1 align="center">Assalamualaikum 👋</h1>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=MD.+Sikhul+Islam+Shihab;Backend+Engineer;.NET+%7C+Microservices+%7C+Cloud" alt="Typing SVG" />
 </h1>

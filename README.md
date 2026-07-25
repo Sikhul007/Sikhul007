@@ -200,9 +200,8 @@ var currentStack = new[]
     ".NET 10 & ASP.NET Core 10",
     "Vertical Slice Architecture (VSA)",
     "Event-Driven Architecture with RabbitMQ",
-    "Domain-Driven Design (DDD)",
+    "Microservices Architecture",
+    "Redis & Distributed Caching",
     "Event Sourcing & CQRS",
-    "Kubernetes & Service Mesh",
-    "Observability (OpenTelemetry, Jaeger)",
     "Performance Optimization & Benchmarking"
 };
